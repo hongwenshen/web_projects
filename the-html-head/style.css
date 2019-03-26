@@ -1,0 +1,22 @@
+/*
+ * @Description: Web HTML Study
+ * @Author: Shenhongwen
+ * @LastEditors: Shenhongwen
+ * @Date: 2019-03-26 20:10:08
+ * @LastEditTime: 2019-03-26 20:35:19
+ */
+
+html {
+  background-color: green;
+  font-size: 20px;
+}
+
+ul {
+  background: red;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
