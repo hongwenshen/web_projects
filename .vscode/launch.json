@@ -16,11 +16,17 @@
         //     "request": "launch",
         //     "file": "${workspaceFolder}/the-html-head/title-example.html"
         // },
+        // {
+        //     "name": "meta-eample.html",
+        //     "type": "chrome",
+        //     "request": "launch",
+        //     "file": "${workspaceFolder}/the-html-head/meta-example.html"
+        // },
         {
-            "name": "meta-eample.html",
+            "name": "text-start.html",
             "type": "chrome",
             "request": "launch",
-            "file": "${workspaceFolder}/the-html-head/meta-example.html"
+            "file": "${workspaceFolder}/html-text-formatting/text-start.html"
         },
     ]
 }
